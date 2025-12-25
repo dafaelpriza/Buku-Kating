@@ -107,6 +107,17 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1t684MYLmb7bTKqhWWG8Krervyh8g8ej1",
         ]
         data_list = [
+             {
+                "nama": "Rendra Eka Prayoga",
+                "nim": "122450122",
+                "umur": "21",
+                "asal":"Bekasi",
+                "alamat": "Pulau Damar",
+                "hobbi": "Menyanyi",
+                "sosmed": "@_erendraa",
+                "kesan": "Bang Rendra keliatan orangnya tenang dan berwibawa, cocok banget jadi sosok pemimpin.",
+                "pesan": "Semangat terus bang dalam memimpin dan semoga semua urusannya dimudahkan." 
+            },
             {
                 "nama": "Rendra Eka Prayoga",
                 "nim": "122450122",
@@ -115,8 +126,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pulau Damar",
                 "hobbi": "Menyanyi",
                 "sosmed": "@_erendraa",
-                "kesan": "Bang Rendra keliatan orangnya tenang dan berwibawa, pas banget jadi sosok pemimpin.",  
-                "pesan":"Semangat terus bang dalam memimpin dan semoga semua urusannya dimudahkan"
+                "kesan": "Bang Rendra keliatan orangnya tenang dan berwibawa, cocok banget jadi sosok pemimpin.",
+                "pesan": "Semangat terus bang dalam memimpin dan semoga semua urusannya dimudahkan." 
             },
             {
                 "nama": "Johannes Krisjon Silitonga",
@@ -126,41 +137,8 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Lapas",
                 "hobbi": "Baca Buku SQL",
                 "sosmed": "@johanneskrisjnnn",
-                "kesan": "KBang Johannes keliatan orangnya cerdas dan punya pembawaan kalem",  
-                "pesan":"Semoga makin sukses bang dan terus semangat ngejalanin kuliah."
-            },
-            {
-                "nama": "Elisabeth Claudia Simanjuntak",
-                "nim": "122450123",
-                "umur": "23",
-                "asal":"Baduy Dalem",
-                "alamat": "Agrest Kost",
-                "hobbi": "Nahan Pipis",
-                "sosmed": "@celisabethh_",
-                "kesan": "Kak Elisabeth keliatan tegas tapi tetap ramah, sosok yang bisa diandalkan.",  
-                "pesan":"SSemoga semua urusan kuliah dan organisasinya berjalan lancar, kak."
-            },
-            {
-                "nama": "Syadza Puspadari Azhar",
-                "nim": "122450072",
-                "umur": "21",
-                "asal":"Palembang",
-                "alamat": "Belwis",
-                "hobbi": "Membaca",
-                "sosmed": "@puspadrr",
-                "kesan": "Kak Syadza keliatan anggun dan pintar, cocok banget dengan perannya sekarang.",  
-                "pesan":"Semoga lancar-lancar saja kehidupannya"
-            },
-            {
-                "nama": "Eksanty Febriana Sugma Islamiaty",
-                "nim": "122450001",
-                "umur": "19",
-                "asal":"Bulaleng, Bali",
-                "alamat": "Asrama TB 4",
-                "hobbi": "Nahan Eeq",
-                "sosmed": "@eksantyfebriana",
-                "kesan": "Walau hobbynya ngawur, tapi bisa berada di posisi penting haha",  
-                "pesan":"Semoga tidak ada masalah yang menghampiri"
+                "kesan": "Bang Johannes keliatan orangnya cerdas dan punya pembawaan kalem.",
+                "pesan": "Semoga makin sukses bang dan terus semangat ngejalanin kuliah." 
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -170,11 +148,44 @@ if menu == "Kesekjenan":
                 "alamat": "Korpri",
                 "hobbi": "Cutekahim",
                 "sosmed": "@farahanumafifah",
-                "kesan": "Bisa ada diposisi ini aja udah keren banget",  
-                "pesan":"Semoga ga banyak masalah menghampiri"
+                "kesan": "Kak Farahanum keliatan ramah dan berwibawa, sosok yang gampang didekati.",
+                "pesan": "Semoga selalu semangat dan tetap jadi panutan yang baik buat teman-teman." 
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Belwis",
+                "hobbi": "Membaca",
+                "sosmed": "@puspadrr",
+                "kesan": "Kak Syadza keliatan anggun dan pintar, cocok banget dengan perannya sekarang.",
+                "pesan": "Semoga semua aktivitas kuliah dan organisasinya selalu lancar, kak." 
+            },
+            {
+                "nama": "Eksanty Febriana Sugma Islamiaty",
+                "nim": "122450001",
+                "umur": "19",
+                "asal":"Bulaleng, Bali",
+                "alamat": "Asrama TB 4",
+                "hobbi": "Nahan Eeq",
+                "sosmed": "@eksantyfebriana",
+                "kesan": "Kak Eksanty keliatan ceria dan berani, sosok yang energik banget.",
+                "pesan": "Semoga terus semangat kuliahnya dan makin banyak pengalaman berharga." 
+            },
+            {
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450123",
+                "umur": "23",
+                "asal":"Baduy Dalem",
+                "alamat": "Agrest Kost",
+                "hobbi": "Nahan Pipis",
+                "sosmed": "@celisabethh_",
+                "kesan": "Kak Elisabeth keliatan tegas tapi tetap ramah, sosok yang bisa diandalkan.",
+                "pesan": "Semoga semua urusan kuliah dan organisasinya berjalan lancar, kak." 
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
 
-# Tambahkan menu lainnya sesuai kebutuhan
+
