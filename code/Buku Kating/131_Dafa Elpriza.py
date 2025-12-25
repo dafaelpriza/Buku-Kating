@@ -108,37 +108,70 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
+                "nama": "Rendra Eka Prayoga",
+                "nim": "122450122",
+                "umur": "21",
                 "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "alamat": "Pulau Damar",
+                "hobbi": "Menyanyi",
+                "sosmed": "@_erendraa",
+                "kesan": "Bang Rendra keliatan orangnya tenang dan berwibawa, pas banget jadi sosok pemimpin.",  
+                "pesan":"Semangat terus bang dalam memimpin dan semoga semua urusannya dimudahkan"
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Johannes Krisjon Silitonga",
+                "nim": "122450043",
+                "umur": "20",
+                "asal":"Tangerang",
+                "alamat": "Jl.Lapas",
+                "hobbi": "Baca Buku SQL",
+                "sosmed": "@johanneskrisjnnn",
+                "kesan": "KBang Johannes keliatan orangnya cerdas dan punya pembawaan kalem",  
+                "pesan":"Semoga makin sukses bang dan terus semangat ngejalanin kuliah."
             },
             {
-                "nama": "Kakak CCc",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Elisabeth Claudia Simanjuntak",
+                "nim": "122450123",
+                "umur": "23",
+                "asal":"Baduy Dalem",
+                "alamat": "Agrest Kost",
+                "hobbi": "Nahan Pipis",
+                "sosmed": "@celisabethh_",
+                "kesan": "Kak Elisabeth keliatan tegas tapi tetap ramah, sosok yang bisa diandalkan.",  
+                "pesan":"SSemoga semua urusan kuliah dan organisasinya berjalan lancar, kak."
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Belwis",
+                "hobbi": "Membaca",
+                "sosmed": "@puspadrr",
+                "kesan": "Kak Syadza keliatan anggun dan pintar, cocok banget dengan perannya sekarang.",  
+                "pesan":"Semoga lancar-lancar saja kehidupannya"
+            },
+            {
+                "nama": "Eksanty Febriana Sugma Islamiaty",
+                "nim": "122450001",
+                "umur": "19",
+                "asal":"Bulaleng, Bali",
+                "alamat": "Asrama TB 4",
+                "hobbi": "Nahan Eeq",
+                "sosmed": "@eksantyfebriana",
+                "kesan": "Walau hobbynya ngawur, tapi bisa berada di posisi penting haha",  
+                "pesan":"Semoga tidak ada masalah yang menghampiri"
+            },
+            {
+                "nama": "Farahanum Afifah Ardiansyah",
+                "nim": "122450056",
+                "umur": "21",
+                "asal":"Kota Padang",
+                "alamat": "Korpri",
+                "hobbi": "Cutekahim",
+                "sosmed": "@farahanumafifah",
+                "kesan": "Bisa ada diposisi ini aja udah keren banget",  
+                "pesan":"Semoga ga banyak masalah menghampiri"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
